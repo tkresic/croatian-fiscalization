@@ -1,9 +1,9 @@
 {
-    "name": "toni/croatian-fiscalization",
+    "name": "tonikresic/croatian-fiscalization",
     "description": "Croatian fiscalization written in PHP",
     "type": "library",
     "require": {
-        "php": ">=7.4"
+        "php": "^7.4"
     },
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "toni\\CroatianFiscalization\\": "src/"
+            "tonikresic\\CroatianFiscalization\\": "src/"
         }
     }
 }
