@@ -1,11 +1,18 @@
 {
     "name": "tonikresic/croatian-fiscalization",
     "description": "Croatian fiscalization written in PHP",
+    "keywords": [
+        "croatia", "fiscalization"
+    ],
     "type": "library",
     "require": {
         "php": "^7.4"
     },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    },
     "license": "MIT",
+    "homepage": "https://gitlab.com/tonikresic/croatian-fiscalization",
     "authors": [
         {
             "name": "Toni Krešić",
@@ -13,6 +20,10 @@
         }
     ],
     "minimum-stability": "stable",
+    "support": {
+        "issues": "https://gitlab.com/tonikresic/croatian-fiscalization/issues",
+        "source": "https://gitlab.com/tonikresic/croatian-fiscalization"
+    },
     "autoload": {
         "psr-4": {
             "tonikresic\\CroatianFiscalization\\": "src/"
