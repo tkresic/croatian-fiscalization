@@ -1,7 +1,8 @@
 # Croatian Fiscalization
 
-[![](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://shields.io/)
+[![](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://shields.io/)
 [![](https://img.shields.io/badge/maintained-yes-green.svg)](https://shields.io/)
+
 
 PHP package for Croatian fiscalization. Provides basic service for fiscalizing the invoices with Croatian tax PDV (25%).
 
