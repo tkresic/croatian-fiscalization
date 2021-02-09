@@ -1,6 +1,6 @@
 # Croatian Fiscalization
 
-[![](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://shields.io/)
+[![](https://img.shields.io/badge/version-1.0.3-blue.svg)](https://shields.io/)
 [![](https://img.shields.io/badge/maintained-yes-green.svg)](https://shields.io/)
 
 
